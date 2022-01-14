@@ -313,23 +313,23 @@ header, nav {
     font-weight: 700;
 }
 
-#website {
-    background: url("pics/website.JPG");
+#tictac {
+    background: url("pics/tictactoe.png");
 }
 
 #etchASketch {
     background: url("/pics/etchasketch");
 }
 
-#rockPaper {
-    background: url("/pics/rockPaper.png");
+#library {
+    background: url("/pics/library.png");
 }
 
 #unity {
     background: url("/pics/unity.png");
 }
 
-#website, #etchASketch, #rockPaper, #unity {
+#library, #etchASketch, #tictac, #unity {
     background-size: cover;
 }
 
